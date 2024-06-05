@@ -1,0 +1,1 @@
+a:2:{s:13:"66587d7cd0b73";a:2:{s:7:"checked";b:0;s:8:"intitule";s:6:"item 2";}s:13:"66587d7fda5a7";a:2:{s:7:"checked";b:0;s:8:"intitule";s:5:"Hafiz";}}
